@@ -1,193 +1,100 @@
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04b6" }, "Title" : "Gra o tron", "OriginalTitle" : "Game of Thrones", "Year" : "2011", "Genre" : "Dramat, Fantasy, Przygodowy", "AverageRate" : "8.800", "Votes" : "44425" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04b7" }, "Title" : "Kompania braci", "OriginalTitle" : "Band of brothers", "Year" : "2001", "Genre" : "Dramat, Wojenny", "AverageRate" : "8.643", "Votes" : "46740" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04b8" }, "Title" : "Breaking Bad", "OriginalTitle" : "Breaking Bad", "Year" : "2008", "Genre" : "Dramat, Kryminal", "AverageRate" : "8.414", "Votes" : "15626" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04b9" }, "Title" : "Dexter", "OriginalTitle" : "Dexter", "Year" : "2006", "Genre" : "Dramat, Kryminal", "AverageRate" : "8.389", "Votes" : "70369" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04ba" }, "Title" : "Miasteczko Twin Peaks", "OriginalTitle" : "Twin Peaks", "Year" : "1990", "Genre" : "Dramat, Thriller", "AverageRate" : "8.350", "Votes" : "27400" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04bb" }, "Title" : "W garniturach", "OriginalTitle" : "Suits", "Year" : "2011", "Genre" : "Dramat, Komedia, Prawniczy", "AverageRate" : "8.299", "Votes" : "6629" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04bc" }, "Title" : "Planeta Ziemia", "OriginalTitle" : "Planet Earth", "Year" : "2006", "Genre" : "Dokumentalny, Przyrodniczy", "AverageRate" : "8.297", "Votes" : "3080" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04bd" }, "Title" : "Dr House", "OriginalTitle" : "House M.D.", "Year" : "2004", "Genre" : "Dramat, Komedia", "AverageRate" : "8.283", "Votes" : "194373" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04be" }, "Title" : "Synowie Anarchii", "OriginalTitle" : "Sons of Anarchy", "Year" : "2008", "Genre" : "Dramat, Kryminal, Akcja", "AverageRate" : "8.265", "Votes" : "7621" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04bf" }, "Title" : "Teoria wielkiego podrywu", "OriginalTitle" : "The Bing Banh Theory", "Year" : "2007", "Genre" : "Komedia", "AverageRate" : "8.248", "Votes" : "35810" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04c0" }, "Title" : "Spartakus: Krew i piach", "OriginalTitle" : "Spartakus: Blood and Sand", "Year" : "2010", "Genre" : "Kostiumowy, Akcja", "AverageRate" : "8.236", "Votes" : "22549" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04c1" }, "Title" : "Nie z tego swiata", "OriginalTitle" : "Supernatural", "Year" : "2005", "Genre" : "Dramat, Horror", "AverageRate" : "8.218", "Votes" : "24918" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04c2" }, "Title" : "Zwariowane melodie", "OriginalTitle" : "Merrie Melodies: Starring Bugs Bunny and Friends ", "Year" : "1990", "Genre" : "Animacja, Familijny, Komedia", "AverageRate" : "8.209", "Votes" : "10031" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04c3" }, "Title" : "Spartakus: Bogowie Areny ", "OriginalTitle" : "SPartakus: Gods of the Arena", "Year" : "2011", "Genre" : "Dramat, Kostiumowy, Akcja", "AverageRate" : "8.203", "Votes" : "13249" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04c4" }, "Title" : "Rodzina Soprano", "OriginalTitle" : "The Sopranos", "Year" : "1999", "Genre" : "Dramat, Gangsterski", "AverageRate" : "8.195", "Votes" : "19782" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04c5" }, "Title" : "Shameless", "OriginalTitle" : "Shameless", "Year" : "2011", "Genre" : "Dramat, Komedia", "AverageRate" : "8.189", "Votes" : "4144" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04c6" }, "Title" : "Rzym", "OriginalTitle" : "Rome", "Year" : "2005", "Genre" : "Dramat historyczny", "AverageRate" : "8.160", "Votes" : "16838" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04c7" }, "Title" : "Firefly", "OriginalTitle" : "Firefly", "Year" : "2002", "Genre" : "Przygodowy, Sci-Fi", "AverageRate" : "8.146", "Votes" : "3978" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04c8" }, "Title" : "Slodkie klamstewka", "OriginalTitle" : "Pretty Little Liars", "Year" : "2010", "Genre" : "Dramat, Thriller", "AverageRate" : "8.134", "Votes" : "12641" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04c9" }, "Title" : "Simpsonowie", "OriginalTitle" : "The Simpsons", "Year" : "1989", "Genre" : "Animacja, Komedia", "AverageRate" : "8.117", "Votes" : "32537" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04ca" }, "Title" : "Pamietniki wampirow", "OriginalTitle" : "The Vampire Diaries", "Year" : "2009", "Genre" : "Fantasy, Horror, Romans", "AverageRate" : "8.115", "Votes" : "39517" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04cb" }, "Title" : "Mad Men", "OriginalTitle" : "Mad Men", "Year" : "2007", "Genre" : "Dramat", "AverageRate" : "8.108", "Votes" : "5693" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04cc" }, "Title" : "SPartakus:Zemsta", "OriginalTitle" : "Spartacus: Vengeance", "Year" : "2012", "Genre" : "Kostiumowy, Akcja", "AverageRate" : "8.105", "Votes" : "5179" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04cd" }, "Title" : "Biale kolnierzyki", "OriginalTitle" : "White Collar", "Year" : "2009", "Genre" : "Dramat, Komedia kryminalna", "AverageRate" : "8.095", "Votes" : "6247" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04ce" }, "Title" : "Alfred Hitchcock Przedstawia", "OriginalTitle" : "Alfred Hitchcock Presents ", "Year" : "1955", "Genre" : "Thriller, Dreszczowiec", "AverageRate" : "8.095", "Votes" : "1993" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04cf" }, "Title" : "Ekipa", "OriginalTitle" : "Entourage", "Year" : "2004", "Genre" : "Komedia obyczajowa", "AverageRate" : "8.093", "Votes" : "5263" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04d0" }, "Title" : "Rozowe lata 70-te", "OriginalTitle" : "That 70s Show", "Year" : "1998", "Genre" : "Komedia", "AverageRate" : "8.035", "Votes" : "26704" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04d1" }, "Title" : "Generation Kill:Czas wojny", "OriginalTitle" : "Generation Kill", "Year" : "2008", "Genre" : "Dramat, Wojenny", "AverageRate" : "8.032", "Votes" : "3952" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04d2" }, "Title" : "Carnivale", "OriginalTitle" : "Carnivale", "Year" : "2003", "Genre" : "Dramat, Fantasy", "AverageRate" : "8.029", "Votes" : "2582" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04d3" }, "Title" : "Dr. Horrible's Sing-Along Blog", "OriginalTitle" : "Dr. Horrible's Sing-Along Blog", "Year" : "2008", "Genre" : "Komedia, Musical, Sci-Fi", "AverageRate" : "8.021", "Votes" : "1356" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04d4" }, "Title" : "Smerfy", "OriginalTitle" : "Smurfs", "Year" : "1981", "Genre" : "Animacja, Dla dzieci", "AverageRate" : "8.019", "Votes" : "24848" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04d5" }, "Title" : "Swiat gliniarzy", "OriginalTitle" : "The Shield", "Year" : "2002", "Genre" : "Dramat, Kryminal", "AverageRate" : "8.016", "Votes" : "1807" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04d6" }, "Title" : "Battlestar Galactica", "OriginalTitle" : "Battlestar Galactica", "Year" : "2004", "Genre" : "Przygodowy, Sci-Fi", "AverageRate" : "8.006", "Votes" : "8420" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04d7" }, "Title" : "Dynastia Tudorow", "OriginalTitle" : "The Tudors", "Year" : "2007", "Genre" : "Dramat historyczny", "AverageRate" : "8.001", "Votes" : "13026" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04d8" }, "Title" : "Pacyfik", "OriginalTitle" : "The Pacyfic", "Year" : "2010", "Genre" : "Dramat, Wojenny", "AverageRate" : "7.998", "Votes" : "15412" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04d9" }, "Title" : "Pogoda na milosc", "OriginalTitle" : "One Tree Hill", "Year" : "2003", "Genre" : "Obyczajowy, Dla mlodziezy", "AverageRate" : "7.994", "Votes" : "15875" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04da" }, "Title" : "Swiat wedlug Ludwiczka", "OriginalTitle" : "Life with Louie", "Year" : "1995", "Genre" : "Animacja, Dla dzieci, Familijny, Komedia", "AverageRate" : "7.993", "Votes" : "15523" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04db" }, "Title" : "Homeland", "OriginalTitle" : "Homeland", "Year" : "2011", "Genre" : "Dramat, Thriller", "AverageRate" : "7.991", "Votes" : "3160" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04dc" }, "Title" : "Magia klamstwa", "OriginalTitle" : "Lie to Me", "Year" : "2009", "Genre" : "Dramat, Kryminal", "AverageRate" : "7.990", "Votes" : "15304" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04dd" }, "Title" : "Mentalista", "OriginalTitle" : "The Mentalist", "Year" : "2008", "Genre" : "Dramat, Kryminal", "AverageRate" : "7.983", "Votes" : "17770" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04de" }, "Title" : "Zona idealna", "OriginalTitle" : "The Good Wife", "Year" : "2009", "Genre" : "Dramat, Prawniczy", "AverageRate" : "7.973", "Votes" : "2666" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04df" }, "Title" : "Zagadki wszechswiata z Morganem Freemanem", "OriginalTitle" : "Through the Wormhole ", "Year" : "2010", "Genre" : "Dokumentalny", "AverageRate" : "7.969", "Votes" : "629" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04e0" }, "Title" : "The Flight of the Conchords", "OriginalTitle" : "The Flight of the Conchords", "Year" : "2007", "Genre" : "Komedia, Muzyczny", "AverageRate" : "7.968", "Votes" : "1001" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04e1" }, "Title" : "Glowa rodziny", "OriginalTitle" : "Family Guy", "Year" : "1999", "Genre" : "Animacja, Komedia", "AverageRate" : "7.968", "Votes" : "22711" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04e2" }, "Title" : "Friday Night Lights", "OriginalTitle" : "Friday Night Lights", "Year" : "2006", "Genre" : "Dramat, Sportowy", "AverageRate" : "7.963", "Votes" : "1115" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04e3" }, "Title" : "Plotkara", "OriginalTitle" : "Gossip Girl", "Year" : "2007", "Genre" : "Komedia, Dla mlodziezy", "AverageRate" : "7.961", "Votes" : "340099" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04e4" }, "Title" : "Queer as Folk", "OriginalTitle" : "Queer as Folk", "Year" : "2000", "Genre" : "Dramat", "AverageRate" : "7.960", "Votes" : "2753" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04e5" }, "Title" : "Szesc stop pod ziemia", "OriginalTitle" : "Six Feet Under", "Year" : "2001", "Genre" : "Dramat obyczajowy, Czarna komedia", "AverageRate" : "7.958", "Votes" : "15009" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04e6" }, "Title" : "Chirurdzy", "OriginalTitle" : "Grey's Anatomy", "Year" : "2005", "Genre" : "Obyczajowy", "AverageRate" : "7.995", "Votes" : "49327" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04e7" }, "Title" : "Anioly w Ameryce", "OriginalTitle" : "Angels in America", "Year" : "2003", "Genre" : "Dramat, Obyczajowy", "AverageRate" : "7.954", "Votes" : "3568" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04e8" }, "Title" : "Futurama", "OriginalTitle" : "Futurama", "Year" : "1999", "Genre" : "Animacja, Komedia, Sci-Fi", "AverageRate" : "7.953", "Votes" : "11020" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04e9" }, "Title" : "Wspolczesna rodzina", "OriginalTitle" : "Modern Family", "Year" : "2009", "Genre" : "Komedia", "AverageRate" : "7.951", "Votes" : "5185" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04ea" }, "Title" : "Castle", "OriginalTitle" : "Castle", "Year" : "2009", "Genre" : "Dramat, Kryminal", "AverageRate" : "7.950", "Votes" : "5166" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04eb" }, "Title" : "Glee", "OriginalTitle" : "Glee", "Year" : "2009", "Genre" : "Dramat, Komedia, Muzyczny", "AverageRate" : "7.948", "Votes" : "15520" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04ec" }, "Title" : "Oz", "OriginalTitle" : "Oz", "Year" : "1997", "Genre" : "Dramat, Kryminal, Thriller", "AverageRate" : "7944", "Votes" : "1386" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04ed" }, "Title" : "Dochodzenie", "OriginalTitle" : "The Killing", "Year" : "2011", "Genre" : "Dramat, Kryminal", "AverageRate" : "7.941", "Votes" : "4429" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04ee" }, "Title" : "My Little Pony: Friendship Is Magic", "OriginalTitle" : "My Little Pony: Friendship Is Magic", "Year" : "2010", "Genre" : "Animacja, Familijny, Fantasy, Komedia", "AverageRate" : "7.936", "Votes" : "1302" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04ef" }, "Title" : "Blue Mountain State", "OriginalTitle" : "Blue Mountain State", "Year" : "2010", "Genre" : "Komedia, Sportowy", "AverageRate" : "7.930", "Votes" : "2156" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04f0" }, "Title" : "Fringe: Na granicy swiatow", "OriginalTitle" : "Fringe", "Year" : "2008", "Genre" : "Thriller, Sci-Fi", "AverageRate" : "7.930", "Votes" : "12031" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04f1" }, "Title" : "Weronika Mars", "OriginalTitle" : "Veronica Mars", "Year" : "2004", "Genre" : "Kryminal, Dla mlodziezy", "AverageRate" : "7.916", "Votes" : "13282" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04f2" }, "Title" : "Powrot do zycia", "OriginalTitle" : "Life", "Year" : "2007", "Genre" : "Dramat, Kryminal", "AverageRate" : "7.916", "Votes" : "1990" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04f3" }, "Title" : "Moje tak zwane zycie", "OriginalTitle" : "My So-Called Life", "Year" : "1994", "Genre" : "Obyczajowy, Dla mlodziezy", "AverageRate" : "7.913", "Votes" : "757" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04f4" }, "Title" : "Awatar: Legenda Aanga", "OriginalTitle" : "Avatar: The Last Airbender", "Year" : "2005", "Genre" : "Animacja, Fantasy, Przygodowy", "AverageRate" : "7.899", "Votes" : "2631" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04f5" }, "Title" : "Terapia", "OriginalTitle" : "In Treatment", "Year" : "2008", "Genre" : "Dramat", "AverageRate" : "7.891", "Votes" : "995" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04f6" }, "Title" : "Miasteczko South Park", "OriginalTitle" : "South Park", "Year" : "1997", "Genre" : "Animacja, Komedia", "AverageRate" : "7,890", "Votes" : "32847" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04f7" }, "Title" : "Szkola przetrwania", "OriginalTitle" : "Man vs. Wild", "Year" : "2006", "Genre" : "Dokumentalny, Przygodowy, Edukacyjny", "AverageRate" : "7.889", "Votes" : "10418" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04f8" }, "Title" : "Zabojcze umysly", "OriginalTitle" : "Criminal Minds", "Year" : "2005", "Genre" : "Dramat, Kryminal, Thriller", "AverageRate" : "7.886", "Votes" : "4502" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04f9" }, "Title" : "American Horror Story", "OriginalTitle" : "American Horror Story", "Year" : "2011", "Genre" : "Dramat, Horror", "AverageRate" : "7.886", "Votes" : "6460" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04fa" }, "Title" : "Z Archiwum X", "OriginalTitle" : "The X Files", "Year" : "1993", "Genre" : "Thriller, Sci-Fi", "AverageRate" : "7.880", "Votes" : "42226" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04fb" }, "Title" : "Zagubiony pokoj", "OriginalTitle" : "The Lost Room", "Year" : "2006", "Genre" : "Fantasy, Przygodowy", "AverageRate" : "7.869", "Votes" : "4946" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04fc" }, "Title" : "Greek", "OriginalTitle" : "Greek", "Year" : "2007", "Genre" : "Komedia, Dla mlodziezy", "AverageRate" : "7.866", "Votes" : "2679" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04fd" }, "Title" : "Pogromcy mitow", "OriginalTitle" : "MythBusters", "Year" : "2003", "Genre" : "Dokumentalny", "AverageRate" : "7.865", "Votes" : "11156" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04fe" }, "Title" : "Niesamowite historie", "OriginalTitle" : "Amazing Stories", "Year" : "1985", "Genre" : "Horror", "AverageRate" : "7.864", "Votes" : "874" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e04ff" }, "Title" : "Kosci", "OriginalTitle" : "Bones", "Year" : "2005", "Genre" : "Dramat, Kryminal", "AverageRate" : "7.863", "Votes" : "27322" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e0500" }, "Title" : "Slowo na L", "OriginalTitle" : "The L Word", "Year" : "2004", "Genre" : "Romans, Dramat obyczajowy", "AverageRate" : "7.862", "Votes" : "4087" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e0501" }, "Title" : "Zycie na fali", "OriginalTitle" : "The O.C.", "Year" : "2003", "Genre" : "Obyczajowy", "AverageRate" : "7.856", "Votes" : "20750" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e0502" }, "Title" : "Chuck", "OriginalTitle" : "Chuck", "Year" : "2007", "Genre" : "Dramat, Komedia, Akcja", "AverageRate" : "7.848", "Votes" : "9787" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e0503" }, "Title" : "Uklady", "OriginalTitle" : "Damages", "Year" : "2007", "Genre" : "Dramat, Kryminal, Thriller", "AverageRate" : "7.846", "Votes" : "3450" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e0504" }, "Title" : "Gwiezdne Wrota:Atlantyda", "OriginalTitle" : "Stargate: Atlantis", "Year" : "2004", "Genre" : "Przygodowy, Sci-Fi", "AverageRate" : "7.843", "Votes" : "6110" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e0505" }, "Title" : "Pod oslona nocy", "OriginalTitle" : "Moonlight", "Year" : "2007", "Genre" : "Dramat, Fantasy", "AverageRate" : "7.843", "Votes" : "7595" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e0506" }, "Title" : "Bez skazy", "OriginalTitle" : "Nip/Tuck", "Year" : "2003", "Genre" : "Dramat obyczajowy", "AverageRate" : "7.840", "Votes" : "3694" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e0507" }, "Title" : "Po tamtej stronie", "OriginalTitle" : "The Outer Limits", "Year" : "1995", "Genre" : "Dramat, Horror, Sci-Fi", "AverageRate" : "7.840", "Votes" : "1298" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e0508" }, "Title" : "Gwiezdne wrota", "OriginalTitle" : "Stargate SG-1", "Year" : "1997", "Genre" : "Przygodowy, Sci-Fi", "AverageRate" : "7.838", "Votes" : "10094" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e0509" }, "Title" : "Zaklinacz psow", "OriginalTitle" : "The Dog Whisperer", "Year" : "2004", "Genre" : "Dokumentalny, Edukacyjny", "AverageRate" : "7.836", "Votes" : "369" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e050a" }, "Title" : "Czysta krew", "OriginalTitle" : "True Blood", "Year" : "2008", "Genre" : "Dramat, Fantasy, Horror", "AverageRate" : "7.831", "Votes" : "34000" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e050b" }, "Title" : "Dowody zbrodni", "OriginalTitle" : "Cold Case", "Year" : "2003", "Genre" : "Kryminal", "AverageRate" : "7.830", "Votes" : "12478" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e050c" }, "Title" : "X-Men: Ewolucja", "OriginalTitle" : "X-Men: Evolution", "Year" : "2000", "Genre" : "Animacja, Sci-Fi, Dla mlodziezy", "AverageRate" : "7.822", "Votes" : "3536" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e050d" }, "Title" : "M*A*S*H", "OriginalTitle" : "M*A*S*H", "Year" : "1972", "Genre" : "Dramat, Komedia, Wojenny", "AverageRate" : "7.821", "Votes" : "16329" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e050e" }, "Title" : "Przyjaciele", "OriginalTitle" : "Friends", "Year" : "1994", "Genre" : "Komedia", "AverageRate" : "7.818", "Votes" : "132274" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e050f" }, "Title" : "Kochane klopoty", "OriginalTitle" : "Gilmore Girls", "Year" : "2000", "Genre" : "Familijny, Komedia obyczajowa", "AverageRate" : "7.813", "Votes" : "11555" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e0510" }, "Title" : "The Walking Dead", "OriginalTitle" : "The Walking Dead", "Year" : "2010", "Genre" : "Dramat, Horror", "AverageRate" : "7.798", "Votes" : "17523" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e0511" }, "Title" : "Hozy doktorzy", "OriginalTitle" : "Scrubs", "Year" : "2001", "Genre" : "Dramat, Komedia", "AverageRate" : "7.792", "Votes" : "26923" }
-{ "_id" : { "$oid" : "4fb3ec0556cc25db473e0512" }, "Title" : "Fineasz i Ferb", "OriginalTitle" : "Phineas and Ferb", "Year" : "2007", "Genre" : "Animacja, Familijny, Komedia, Musical", "AverageRate" : "7.788", "Votes" : "5507" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0513" }, "Title" : "Gra o tron", "OriginalTitle" : "Game of Thrones", "Year" : "2011", "Genre" : "Dramat, Fantasy, Przygodowy", "AverageRate" : "8.800", "Votes" : "44425" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0514" }, "Title" : "Kompania braci", "OriginalTitle" : "Band of brothers", "Year" : "2001", "Genre" : "Dramat, Wojenny", "AverageRate" : "8.643", "Votes" : "46740" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0515" }, "Title" : "Jak poznalem wasza matke", "OriginalTitle" : "How I Met Your Mother", "Year" : "2005", "Genre" : "Komedia", "AverageRate" : "8.416", "Votes" : "55341" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0516" }, "Title" : "Breaking Bad", "OriginalTitle" : "Breaking Bad", "Year" : "2008", "Genre" : "Dramat, Kryminal", "AverageRate" : "8.414", "Votes" : "15626" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0517" }, "Title" : "Dexter", "OriginalTitle" : "Dexter", "Year" : "2006", "Genre" : "Dramat, Kryminal", "AverageRate" : "8.389", "Votes" : "70369" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0518" }, "Title" : "Miasteczko Twin Peaks", "OriginalTitle" : "Twin Peaks", "Year" : "1990", "Genre" : "Dramat, Thriller", "AverageRate" : "8.350", "Votes" : "27400" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0519" }, "Title" : "Prawo ulicy", "OriginalTitle" : "The Wire", "Year" : "2002", "Genre" : "Dramat, Kryminal", "AverageRate" : "8.311", "Votes" : "3974" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e051a" }, "Title" : "Zakazane Imperium", "OriginalTitle" : "Boardwalk Empire", "Year" : "2010", "Genre" : "Dramat, Kryminal, Gangsterski", "AverageRate" : "8.300", "Votes" : "13130" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e051b" }, "Title" : "W garniturach", "OriginalTitle" : "Suits", "Year" : "2011", "Genre" : "Dramat, Komedia, Prawniczy", "AverageRate" : "8.299", "Votes" : "6629" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e051c" }, "Title" : "Planeta Ziemia", "OriginalTitle" : "Planet Earth", "Year" : "2006", "Genre" : "Dokumentalny, Przyrodniczy", "AverageRate" : "8.297", "Votes" : "3080" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e051d" }, "Title" : "Dr House", "OriginalTitle" : "House M.D.", "Year" : "2004", "Genre" : "Dramat, Komedia", "AverageRate" : "8.283", "Votes" : "194373" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e051e" }, "Title" : "Synowie Anarchii", "OriginalTitle" : "Sons of Anarchy", "Year" : "2008", "Genre" : "Dramat, Kryminal, Akcja", "AverageRate" : "8.265", "Votes" : "7621" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e051f" }, "Title" : "Teoria wielkiego podrywu", "OriginalTitle" : "The Bing Banh Theory", "Year" : "2007", "Genre" : "Komedia", "AverageRate" : "8.248", "Votes" : "35810" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0520" }, "Title" : "Spartakus: Krew i piach", "OriginalTitle" : "Spartakus: Blood and Sand", "Year" : "2010", "Genre" : "Kostiumowy, Akcja", "AverageRate" : "8.236", "Votes" : "22549" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0521" }, "Title" : "Nie z tego swiata", "OriginalTitle" : "Supernatural", "Year" : "2005", "Genre" : "Dramat, Horror", "AverageRate" : "8.218", "Votes" : "24918" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0522" }, "Title" : "Zwariowane melodie", "OriginalTitle" : "Merrie Melodies: Starring Bugs Bunny and Friends ", "Year" : "1990", "Genre" : "Animacja, Familijny, Komedia", "AverageRate" : "8.209", "Votes" : "10031" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0523" }, "Title" : "Spartakus: Bogowie Areny ", "OriginalTitle" : "SPartakus: Gods of the Arena", "Year" : "2011", "Genre" : "Dramat, Kostiumowy, Akcja", "AverageRate" : "8.203", "Votes" : "13249" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0524" }, "Title" : "Rodzina Soprano", "OriginalTitle" : "The Sopranos", "Year" : "1999", "Genre" : "Dramat, Gangsterski", "AverageRate" : "8.195", "Votes" : "19782" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0525" }, "Title" : "Shameless", "OriginalTitle" : "Shameless", "Year" : "2011", "Genre" : "Dramat, Komedia", "AverageRate" : "8.189", "Votes" : "4144" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0526" }, "Title" : "Rzym", "OriginalTitle" : "Rome", "Year" : "2005", "Genre" : "Dramat historyczny", "AverageRate" : "8.160", "Votes" : "16838" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0527" }, "Title" : "Firefly", "OriginalTitle" : "Firefly", "Year" : "2002", "Genre" : "Przygodowy, Sci-Fi", "AverageRate" : "8.146", "Votes" : "3978" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0528" }, "Title" : "Slodkie klamstewka", "OriginalTitle" : "Pretty Little Liars", "Year" : "2010", "Genre" : "Dramat, Thriller", "AverageRate" : "8.134", "Votes" : "12641" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0529" }, "Title" : "Simpsonowie", "OriginalTitle" : "The Simpsons", "Year" : "1989", "Genre" : "Animacja, Komedia", "AverageRate" : "8.117", "Votes" : "32537" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e052a" }, "Title" : "Pamietniki wampirow", "OriginalTitle" : "The Vampire Diaries", "Year" : "2009", "Genre" : "Fantasy, Horror, Romans", "AverageRate" : "8.115", "Votes" : "39517" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e052b" }, "Title" : "Mad Men", "OriginalTitle" : "Mad Men", "Year" : "2007", "Genre" : "Dramat", "AverageRate" : "8.108", "Votes" : "5693" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e052c" }, "Title" : "SPartakus:Zemsta", "OriginalTitle" : "Spartacus: Vengeance", "Year" : "2012", "Genre" : "Kostiumowy, Akcja", "AverageRate" : "8.105", "Votes" : "5179" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e052d" }, "Title" : "Biale kolnierzyki", "OriginalTitle" : "White Collar", "Year" : "2009", "Genre" : "Dramat, Komedia kryminalna", "AverageRate" : "8.095", "Votes" : "6247" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e052e" }, "Title" : "Alfred Hitchcock Przedstawia", "OriginalTitle" : "Alfred Hitchcock Presents ", "Year" : "1955", "Genre" : "Thriller, Dreszczowiec", "AverageRate" : "8.095", "Votes" : "1993" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e052f" }, "Title" : "Ekipa", "OriginalTitle" : "Entourage", "Year" : "2004", "Genre" : "Komedia obyczajowa", "AverageRate" : "8.093", "Votes" : "5263" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0530" }, "Title" : "Deadwood", "OriginalTitle" : "Deadwook", "Year" : "2004", "Genre" : "Historyczny, Kryminal, Western", "AverageRate" : "8.064", "Votes" : "2507" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0531" }, "Title" : "Pingwiny z Madagaskaru", "OriginalTitle" : "The Penguins of Madagascar", "Year" : "2008", "Genre" : "Animacja, Familijny, Komedia", "AverageRate" : "8.051", "Votes" : "22283" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0532" }, "Title" : "Rozowe lata 70-te", "OriginalTitle" : "That 70s Show", "Year" : "1998", "Genre" : "Komedia", "AverageRate" : "8.035", "Votes" : "26704" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0533" }, "Title" : "Generation Kill:Czas wojny", "OriginalTitle" : "Generation Kill", "Year" : "2008", "Genre" : "Dramat, Wojenny", "AverageRate" : "8.032", "Votes" : "3952" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0534" }, "Title" : "Carnivale", "OriginalTitle" : "Carnivale", "Year" : "2003", "Genre" : "Dramat, Fantasy", "AverageRate" : "8.029", "Votes" : "2582" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0535" }, "Title" : "Dr. Horrible's Sing-Along Blog", "OriginalTitle" : "Dr. Horrible's Sing-Along Blog", "Year" : "2008", "Genre" : "Komedia, Musical, Sci-Fi", "AverageRate" : "8.021", "Votes" : "1356" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0536" }, "Title" : "Smerfy", "OriginalTitle" : "Smurfs", "Year" : "1981", "Genre" : "Animacja, Dla dzieci", "AverageRate" : "8.019", "Votes" : "24848" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0537" }, "Title" : "Swiat gliniarzy", "OriginalTitle" : "The Shield", "Year" : "2002", "Genre" : "Dramat, Kryminal", "AverageRate" : "8.016", "Votes" : "1807" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0538" }, "Title" : "Battlestar Galactica", "OriginalTitle" : "Battlestar Galactica", "Year" : "2004", "Genre" : "Przygodowy, Sci-Fi", "AverageRate" : "8.006", "Votes" : "8420" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0539" }, "Title" : "Dynastia Tudorow", "OriginalTitle" : "The Tudors", "Year" : "2007", "Genre" : "Dramat historyczny", "AverageRate" : "8.001", "Votes" : "13026" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e053a" }, "Title" : "Pacyfik", "OriginalTitle" : "The Pacyfic", "Year" : "2010", "Genre" : "Dramat, Wojenny", "AverageRate" : "7.998", "Votes" : "15412" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e053b" }, "Title" : "Pogoda na milosc", "OriginalTitle" : "One Tree Hill", "Year" : "2003", "Genre" : "Obyczajowy, Dla mlodziezy", "AverageRate" : "7.994", "Votes" : "15875" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e053c" }, "Title" : "Swiat wedlug Ludwiczka", "OriginalTitle" : "Life with Louie", "Year" : "1995", "Genre" : "Animacja, Dla dzieci, Familijny, Komedia", "AverageRate" : "7.993", "Votes" : "15523" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e053d" }, "Title" : "Homeland", "OriginalTitle" : "Homeland", "Year" : "2011", "Genre" : "Dramat, Thriller", "AverageRate" : "7.991", "Votes" : "3160" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e053e" }, "Title" : "Magia klamstwa", "OriginalTitle" : "Lie to Me", "Year" : "2009", "Genre" : "Dramat, Kryminal", "AverageRate" : "7.990", "Votes" : "15304" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e053f" }, "Title" : "Mentalista", "OriginalTitle" : "The Mentalist", "Year" : "2008", "Genre" : "Dramat, Kryminal", "AverageRate" : "7.983", "Votes" : "17770" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0540" }, "Title" : "Zona idealna", "OriginalTitle" : "The Good Wife", "Year" : "2009", "Genre" : "Dramat, Prawniczy", "AverageRate" : "7.973", "Votes" : "2666" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0541" }, "Title" : "Zagadki wszechswiata z Morganem Freemanem", "OriginalTitle" : "Through the Wormhole ", "Year" : "2010", "Genre" : "Dokumentalny", "AverageRate" : "7.969", "Votes" : "629" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0542" }, "Title" : "The Flight of the Conchords", "OriginalTitle" : "The Flight of the Conchords", "Year" : "2007", "Genre" : "Komedia, Muzyczny", "AverageRate" : "7.968", "Votes" : "1001" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0543" }, "Title" : "Glowa rodziny", "OriginalTitle" : "Family Guy", "Year" : "1999", "Genre" : "Animacja, Komedia", "AverageRate" : "7.968", "Votes" : "22711" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0544" }, "Title" : "Friday Night Lights", "OriginalTitle" : "Friday Night Lights", "Year" : "2006", "Genre" : "Dramat, Sportowy", "AverageRate" : "7.963", "Votes" : "1115" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0545" }, "Title" : "Plotkara", "OriginalTitle" : "Gossip Girl", "Year" : "2007", "Genre" : "Komedia, Dla mlodziezy", "AverageRate" : "7.961", "Votes" : "340099" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0546" }, "Title" : "Queer as Folk", "OriginalTitle" : "Queer as Folk", "Year" : "2000", "Genre" : "Dramat", "AverageRate" : "7.960", "Votes" : "2753" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0547" }, "Title" : "Szesc stop pod ziemia", "OriginalTitle" : "Six Feet Under", "Year" : "2001", "Genre" : "Dramat obyczajowy, Czarna komedia", "AverageRate" : "7.958", "Votes" : "15009" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0548" }, "Title" : "Chirurdzy", "OriginalTitle" : "Grey's Anatomy", "Year" : "2005", "Genre" : "Obyczajowy", "AverageRate" : "7.995", "Votes" : "49327" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0549" }, "Title" : "Anioly w Ameryce", "OriginalTitle" : "Angels in America", "Year" : "2003", "Genre" : "Dramat, Obyczajowy", "AverageRate" : "7.954", "Votes" : "3568" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e054a" }, "Title" : "Futurama", "OriginalTitle" : "Futurama", "Year" : "1999", "Genre" : "Animacja, Komedia, Sci-Fi", "AverageRate" : "7.953", "Votes" : "11020" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e054b" }, "Title" : "Wspolczesna rodzina", "OriginalTitle" : "Modern Family", "Year" : "2009", "Genre" : "Komedia", "AverageRate" : "7.951", "Votes" : "5185" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e054c" }, "Title" : "Castle", "OriginalTitle" : "Castle", "Year" : "2009", "Genre" : "Dramat, Kryminal", "AverageRate" : "7.950", "Votes" : "5166" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e054d" }, "Title" : "Glee", "OriginalTitle" : "Glee", "Year" : "2009", "Genre" : "Dramat, Komedia, Muzyczny", "AverageRate" : "7.948", "Votes" : "15520" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e054e" }, "Title" : "Oz", "OriginalTitle" : "Oz", "Year" : "1997", "Genre" : "Dramat, Kryminal, Thriller", "AverageRate" : "7944", "Votes" : "1386" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e054f" }, "Title" : "Dochodzenie", "OriginalTitle" : "The Killing", "Year" : "2011", "Genre" : "Dramat, Kryminal", "AverageRate" : "7.941", "Votes" : "4429" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0550" }, "Title" : "My Little Pony: Friendship Is Magic", "OriginalTitle" : "My Little Pony: Friendship Is Magic", "Year" : "2010", "Genre" : "Animacja, Familijny, Fantasy, Komedia", "AverageRate" : "7.936", "Votes" : "1302" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0551" }, "Title" : "Blue Mountain State", "OriginalTitle" : "Blue Mountain State", "Year" : "2010", "Genre" : "Komedia, Sportowy", "AverageRate" : "7.930", "Votes" : "2156" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0552" }, "Title" : "Fringe: Na granicy swiatow", "OriginalTitle" : "Fringe", "Year" : "2008", "Genre" : "Thriller, Sci-Fi", "AverageRate" : "7.930", "Votes" : "12031" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0553" }, "Title" : "Weronika Mars", "OriginalTitle" : "Veronica Mars", "Year" : "2004", "Genre" : "Kryminal, Dla mlodziezy", "AverageRate" : "7.916", "Votes" : "13282" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0554" }, "Title" : "Powrot do zycia", "OriginalTitle" : "Life", "Year" : "2007", "Genre" : "Dramat, Kryminal", "AverageRate" : "7.916", "Votes" : "1990" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0555" }, "Title" : "Moje tak zwane zycie", "OriginalTitle" : "My So-Called Life", "Year" : "1994", "Genre" : "Obyczajowy, Dla mlodziezy", "AverageRate" : "7.913", "Votes" : "757" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0556" }, "Title" : "Awatar: Legenda Aanga", "OriginalTitle" : "Avatar: The Last Airbender", "Year" : "2005", "Genre" : "Animacja, Fantasy, Przygodowy", "AverageRate" : "7.899", "Votes" : "2631" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0557" }, "Title" : "Terapia", "OriginalTitle" : "In Treatment", "Year" : "2008", "Genre" : "Dramat", "AverageRate" : "7.891", "Votes" : "995" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0558" }, "Title" : "Miasteczko South Park", "OriginalTitle" : "South Park", "Year" : "1997", "Genre" : "Animacja, Komedia", "AverageRate" : "7,890", "Votes" : "32847" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0559" }, "Title" : "Szkola przetrwania", "OriginalTitle" : "Man vs. Wild", "Year" : "2006", "Genre" : "Dokumentalny, Przygodowy, Edukacyjny", "AverageRate" : "7.889", "Votes" : "10418" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e055a" }, "Title" : "Zabojcze umysly", "OriginalTitle" : "Criminal Minds", "Year" : "2005", "Genre" : "Dramat, Kryminal, Thriller", "AverageRate" : "7.886", "Votes" : "4502" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e055b" }, "Title" : "American Horror Story", "OriginalTitle" : "American Horror Story", "Year" : "2011", "Genre" : "Dramat, Horror", "AverageRate" : "7.886", "Votes" : "6460" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e055c" }, "Title" : "Z Archiwum X", "OriginalTitle" : "The X Files", "Year" : "1993", "Genre" : "Thriller, Sci-Fi", "AverageRate" : "7.880", "Votes" : "42226" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e055d" }, "Title" : "Zagubiony pokoj", "OriginalTitle" : "The Lost Room", "Year" : "2006", "Genre" : "Fantasy, Przygodowy", "AverageRate" : "7.869", "Votes" : "4946" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e055e" }, "Title" : "Greek", "OriginalTitle" : "Greek", "Year" : "2007", "Genre" : "Komedia, Dla mlodziezy", "AverageRate" : "7.866", "Votes" : "2679" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e055f" }, "Title" : "Pogromcy mitow", "OriginalTitle" : "MythBusters", "Year" : "2003", "Genre" : "Dokumentalny", "AverageRate" : "7.865", "Votes" : "11156" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0560" }, "Title" : "Niesamowite historie", "OriginalTitle" : "Amazing Stories", "Year" : "1985", "Genre" : "Horror", "AverageRate" : "7.864", "Votes" : "874" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0561" }, "Title" : "Kosci", "OriginalTitle" : "Bones", "Year" : "2005", "Genre" : "Dramat, Kryminal", "AverageRate" : "7.863", "Votes" : "27322" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0562" }, "Title" : "Slowo na L", "OriginalTitle" : "The L Word", "Year" : "2004", "Genre" : "Romans, Dramat obyczajowy", "AverageRate" : "7.862", "Votes" : "4087" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0563" }, "Title" : "Zycie na fali", "OriginalTitle" : "The O.C.", "Year" : "2003", "Genre" : "Obyczajowy", "AverageRate" : "7.856", "Votes" : "20750" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0564" }, "Title" : "Chuck", "OriginalTitle" : "Chuck", "Year" : "2007", "Genre" : "Dramat, Komedia, Akcja", "AverageRate" : "7.848", "Votes" : "9787" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0565" }, "Title" : "Uklady", "OriginalTitle" : "Damages", "Year" : "2007", "Genre" : "Dramat, Kryminal, Thriller", "AverageRate" : "7.846", "Votes" : "3450" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0566" }, "Title" : "Gwiezdne Wrota:Atlantyda", "OriginalTitle" : "Stargate: Atlantis", "Year" : "2004", "Genre" : "Przygodowy, Sci-Fi", "AverageRate" : "7.843", "Votes" : "6110" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0567" }, "Title" : "Pod oslona nocy", "OriginalTitle" : "Moonlight", "Year" : "2007", "Genre" : "Dramat, Fantasy", "AverageRate" : "7.843", "Votes" : "7595" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0568" }, "Title" : "Bez skazy", "OriginalTitle" : "Nip/Tuck", "Year" : "2003", "Genre" : "Dramat obyczajowy", "AverageRate" : "7.840", "Votes" : "3694" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0569" }, "Title" : "Po tamtej stronie", "OriginalTitle" : "The Outer Limits", "Year" : "1995", "Genre" : "Dramat, Horror, Sci-Fi", "AverageRate" : "7.840", "Votes" : "1298" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e056a" }, "Title" : "Gwiezdne wrota", "OriginalTitle" : "Stargate SG-1", "Year" : "1997", "Genre" : "Przygodowy, Sci-Fi", "AverageRate" : "7.838", "Votes" : "10094" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e056b" }, "Title" : "Zaklinacz psow", "OriginalTitle" : "The Dog Whisperer", "Year" : "2004", "Genre" : "Dokumentalny, Edukacyjny", "AverageRate" : "7.836", "Votes" : "369" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e056c" }, "Title" : "Gdzie pachna stokrotki", "OriginalTitle" : "Pushing Daisies", "Year" : "2007", "Genre" : "Komedia obyczajowa", "AverageRate" : "7.832", "Votes" : "4198" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e056d" }, "Title" : "Czysta krew", "OriginalTitle" : "True Blood", "Year" : "2008", "Genre" : "Dramat, Fantasy, Horror", "AverageRate" : "7.831", "Votes" : "34000" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e056e" }, "Title" : "Dowody zbrodni", "OriginalTitle" : "Cold Case", "Year" : "2003", "Genre" : "Kryminal", "AverageRate" : "7.830", "Votes" : "12478" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e056f" }, "Title" : "Twarz Analiji", "OriginalTitle" : "El Rostro de Analia", "Year" : "2008", "Genre" : "Akcja, Romans", "AverageRate" : "7.824", "Votes" : "435" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0570" }, "Title" : "X-Men: Ewolucja", "OriginalTitle" : "X-Men: Evolution", "Year" : "2000", "Genre" : "Animacja, Sci-Fi, Dla mlodziezy", "AverageRate" : "7.822", "Votes" : "3536" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0571" }, "Title" : "M*A*S*H", "OriginalTitle" : "M*A*S*H", "Year" : "1972", "Genre" : "Dramat, Komedia, Wojenny", "AverageRate" : "7.821", "Votes" : "16329" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0572" }, "Title" : "Przyjaciele", "OriginalTitle" : "Friends", "Year" : "1994", "Genre" : "Komedia", "AverageRate" : "7.818", "Votes" : "132274" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0573" }, "Title" : "Kochane klopoty", "OriginalTitle" : "Gilmore Girls", "Year" : "2000", "Genre" : "Familijny, Komedia obyczajowa", "AverageRate" : "7.813", "Votes" : "11555" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0574" }, "Title" : "The Walking Dead", "OriginalTitle" : "The Walking Dead", "Year" : "2010", "Genre" : "Dramat, Horror", "AverageRate" : "7.798", "Votes" : "17523" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0575" }, "Title" : "Hozy doktorzy", "OriginalTitle" : "Scrubs", "Year" : "2001", "Genre" : "Dramat, Komedia", "AverageRate" : "7.792", "Votes" : "26923" }
-{ "_id" : { "$oid" : "4fb3ed7756cc25db473e0576" }, "Title" : "Fineasz i Ferb", "OriginalTitle" : "Phineas and Ferb", "Year" : "2007", "Genre" : "Animacja, Familijny, Komedia, Musical", "AverageRate" : "7.788", "Votes" : "5507" }
+{"Title":"Gra o tron", "OriginalTitle":"Game of Thrones", "Year":"2011", "Genre":"Dramat, Fantasy, Przygodowy", "AverageRate":"8.800", "Votes":"44425"}
+{"Title":"Kompania braci", "OriginalTitle":"Band of brothers", "Year":"2001", "Genre":"Dramat, Wojenny", "AverageRate":"8.643", "Votes":"46740"}
+{"Title":"Jak poznalem wasza matke", "OriginalTitle":"How I Met Your Mother", "Year":"2005", "Genre":"Komedia", "AverageRate":"8.416", "Votes":"55341"}
+{"Title":"Breaking Bad", "OriginalTitle":"Breaking Bad", "Year":"2008", "Genre":"Dramat, Kryminal", "AverageRate":"8.414", "Votes":"15626"}
+{"Title":"Dexter", "OriginalTitle":"Dexter", "Year":"2006", "Genre":"Dramat, Kryminal", "AverageRate":"8.389", "Votes":"70369"}
+{"Title":"Miasteczko Twin Peaks", "OriginalTitle":"Twin Peaks", "Year":"1990", "Genre":"Dramat, Thriller", "AverageRate":"8.350", "Votes":"27400"}
+{"Title":"Prawo ulicy", "OriginalTitle":"The Wire", "Year":"2002", "Genre":"Dramat, Kryminal", "AverageRate":"8.311", "Votes":"3974"}
+{"Title":"Zakazane Imperium", "OriginalTitle":"Boardwalk Empire", "Year":"2010", "Genre":"Dramat, Kryminal, Gangsterski", "AverageRate":"8.300", "Votes":"13130"}
+{"Title":"W garniturach", "OriginalTitle":"Suits", "Year":"2011", "Genre":"Dramat, Komedia, Prawniczy", "AverageRate":"8.299", "Votes":"6629"}
+{"Title":"Planeta Ziemia", "OriginalTitle":"Planet Earth", "Year":"2006", "Genre":"Dokumentalny, Przyrodniczy", "AverageRate":"8.297", "Votes":"3080"}
+{"Title":"Dr House", "OriginalTitle":"House M.D.", "Year":"2004", "Genre":"Dramat, Komedia", "AverageRate":"8.283", "Votes":"194373"}
+{"Title":"Synowie Anarchii", "OriginalTitle":"Sons of Anarchy", "Year":"2008", "Genre":"Dramat, Kryminal, Akcja", "AverageRate":"8.265", "Votes":"7621"}
+{"Title":"Teoria wielkiego podrywu", "OriginalTitle":"The Bing Bang Theory", "Year":"2007", "Genre":"Komedia", "AverageRate":"8.248", "Votes":"35810"}
+{"Title":"Spartakus: Krew i piach", "OriginalTitle":"Spartakus: Blood and Sand", "Year":"2010", "Genre":"Kostiumowy, Akcja", "AverageRate":"8.236", "Votes":"22549"}
+{"Title":"Nie z tego swiata", "OriginalTitle":"Supernatural", "Year":"2005", "Genre":"Dramat, Horror", "AverageRate":"8.218", "Votes":"24918"}
+{"Title":"Zwariowane melodie", "OriginalTitle":"Merrie Melodies: Starring Bugs Bunny and Friends ", "Year":"1990", "Genre":"Animacja, Familijny, Komedia", "AverageRate":"8.209", "Votes":"10031"}
+{"Title":"Spartakus: Bogowie Areny ", "OriginalTitle":"SPartakus: Gods of the Arena", "Year":"2011", "Genre":"Dramat, Kostiumowy, Akcja", "AverageRate":"8.203", "Votes":"13249"}
+{"Title":"Rodzina Soprano", "OriginalTitle":"The Sopranos", "Year":"1999", "Genre":"Dramat, Gangsterski", "AverageRate":"8.195", "Votes":"19782"}
+{"Title":"Shameless", "OriginalTitle":"Shameless", "Year":"2011", "Genre":"Dramat, Komedia", "AverageRate":"8.189", "Votes":"4144"}
+{"Title":"Rzym", "OriginalTitle":"Rome", "Year":"2005", "Genre":"Dramat historyczny", "AverageRate":"8.160", "Votes":"16838"}
+{"Title":"Firefly", "OriginalTitle":"Firefly", "Year":"2002", "Genre":"Przygodowy, Sci-Fi", "AverageRate":"8.146", "Votes":"3978"}
+{"Title":"Slodkie klamstewka", "OriginalTitle":"Pretty Little Liars", "Year":"2010", "Genre":"Dramat, Thriller", "AverageRate":"8.134", "Votes":"12641"}
+{"Title":"Simpsonowie", "OriginalTitle":"The Simpsons", "Year":"1989", "Genre":"Animacja, Komedia", "AverageRate":"8.117", "Votes":"32537"}
+{"Title":"Pamietniki wampirow", "OriginalTitle":"The Vampire Diaries", "Year":"2009", "Genre":"Fantasy, Horror, Romans", "AverageRate":"8.115", "Votes":"39517"}
+{"Title":"Mad Men", "OriginalTitle":"Mad Men", "Year":"2007", "Genre":"Dramat", "AverageRate":"8.108", "Votes":"5693"}
+{"Title":"SPartakus:Zemsta", "OriginalTitle":"Spartacus: Vengeance", "Year":"2012", "Genre":"Kostiumowy, Akcja", "AverageRate":"8.105", "Votes":"5179"}
+{"Title":"Biale kolnierzyki", "OriginalTitle":"White Collar", "Year":"2009", "Genre":"Dramat, Komedia kryminalna", "AverageRate":"8.095", "Votes":"6247"}
+{"Title":"Alfred Hitchcock Przedstawia", "OriginalTitle":"Alfred Hitchcock Presents ", "Year":"1955", "Genre":"Thriller, Dreszczowiec", "AverageRate":"8.095", "Votes":"1993"}
+{"Title":"Ekipa", "OriginalTitle":"Entourage", "Year":"2004", "Genre":"Komedia obyczajowa", "AverageRate":"8.093", "Votes":"5263"}
+{"Title":"Deadwood", "OriginalTitle":"Deadwook", "Year":"2004", "Genre":"Historyczny, Kryminal, Western", "AverageRate":"8.064", "Votes":"2507"}
+{"Title":"Pingwiny z Madagaskaru", "OriginalTitle":"The Penguins of Madagascar", "Year":"2008", "Genre":"Animacja, Familijny, Komedia", "AverageRate":"8.051", "Votes":"22283"}
+{"Title":"Rozowe lata 70-te", "OriginalTitle":"That 70s Show", "Year":"1998", "Genre":"Komedia", "AverageRate":"8.035", "Votes":"26704"}
+{"Title":"Generation Kill:Czas wojny", "OriginalTitle":"Generation Kill", "Year":"2008", "Genre":"Dramat, Wojenny", "AverageRate":"8.032", "Votes":"3952"}
+{"Title":"Carnivale", "OriginalTitle":"Carnivale", "Year":"2003", "Genre":"Dramat, Fantasy", "AverageRate":"8.029", "Votes":"2582"}
+{"Title":"Dr. Horrible's Sing-Along Blog", "OriginalTitle":"Dr. Horrible's Sing-Along Blog", "Year":"2008", "Genre":"Komedia, Musical, Sci-Fi", "AverageRate":"8.021", "Votes":"1356"}
+{"Title":"Smerfy", "OriginalTitle":"Smurfs", "Year":"1981", "Genre":"Animacja, Dla dzieci", "AverageRate":"8.019", "Votes":"24848"}
+{"Title":"Swiat gliniarzy", "OriginalTitle":"The Shield", "Year":"2002", "Genre":"Dramat, Kryminal", "AverageRate":"8.016", "Votes":"1807"}
+{"Title":"Battlestar Galactica", "OriginalTitle":"Battlestar Galactica", "Year":"2004", "Genre":"Przygodowy, Sci-Fi", "AverageRate":"8.006", "Votes":"8420"}
+{"Title":"Dynastia Tudorow", "OriginalTitle":"The Tudors", "Year":"2007", "Genre":"Dramat historyczny", "AverageRate":"8.001", "Votes":"13026"}
+{"Title":"Pacyfik", "OriginalTitle":"The Pacyfic", "Year":"2010", "Genre":"Dramat, Wojenny", "AverageRate":"7.998", "Votes":"15412"}
+{"Title":"Pogoda na milosc", "OriginalTitle":"One Tree Hill", "Year":"2003", "Genre":"Obyczajowy, Dla mlodziezy", "AverageRate":"7.994", "Votes":"15875"}
+{"Title":"Swiat wedlug Ludwiczka", "OriginalTitle":"Life with Louie", "Year":"1995", "Genre":"Animacja, Dla dzieci, Familijny, Komedia", "AverageRate":"7.993", "Votes":"15523"}
+{"Title":"Homeland", "OriginalTitle":"Homeland", "Year":"2011", "Genre":"Dramat, Thriller", "AverageRate":"7.991", "Votes":"3160"}
+{"Title":"Magia klamstwa", "OriginalTitle":"Lie to Me", "Year":"2009", "Genre":"Dramat, Kryminal", "AverageRate":"7.990", "Votes":"15304"}
+{"Title":"Mentalista", "OriginalTitle":"The Mentalist", "Year":"2008", "Genre":"Dramat, Kryminal", "AverageRate":"7.983", "Votes":"17770"}
+{"Title":"Zona idealna", "OriginalTitle":"The Good Wife", "Year":"2009", "Genre":"Dramat, Prawniczy", "AverageRate":"7.973", "Votes":"2666"}
+{"Title":"Zagadki wszechswiata z Morganem Freemanem", "OriginalTitle":"Through the Wormhole ", "Year":"2010", "Genre":"Dokumentalny", "AverageRate":"7.969", "Votes":"629"}
+{"Title":"The Flight of the Conchords", "OriginalTitle":"The Flight of the Conchords", "Year":"2007", "Genre":"Komedia, Muzyczny", "AverageRate":"7.968", "Votes":"1001"}
+{"Title":"Glowa rodziny", "OriginalTitle":"Family Guy", "Year":"1999", "Genre":"Animacja, Komedia", "AverageRate":"7.968", "Votes":"22711"}
+{"Title":"Friday Night Lights", "OriginalTitle":"Friday Night Lights", "Year":"2006", "Genre":"Dramat, Sportowy", "AverageRate":"7.963", "Votes":"1115"}
+{"Title":"Plotkara", "OriginalTitle":"Gossip Girl", "Year":"2007", "Genre":"Komedia, Dla mlodziezy", "AverageRate":"7.961", "Votes":"340099"}
+{"Title":"Queer as Folk", "OriginalTitle":"Queer as Folk", "Year":"2000", "Genre":"Dramat", "AverageRate":"7.960", "Votes":"2753"}
+{"Title":"Szesc stop pod ziemia", "OriginalTitle":"Six Feet Under", "Year":"2001", "Genre":"Dramat obyczajowy, Czarna komedia", "AverageRate":"7.958", "Votes":"15009"}
+{"Title":"Chirurdzy", "OriginalTitle":"Grey's Anatomy", "Year":"2005", "Genre":"Obyczajowy", "AverageRate":"7.995", "Votes":"49327"}
+{"Title":"Anioly w Ameryce", "OriginalTitle":"Angels in America", "Year":"2003", "Genre":"Dramat, Obyczajowy", "AverageRate":"7.954", "Votes":"3568"}
+{"Title":"Futurama", "OriginalTitle":"Futurama", "Year":"1999", "Genre":"Animacja, Komedia, Sci-Fi", "AverageRate":"7.953", "Votes":"11020"}
+{"Title":"Wspolczesna rodzina", "OriginalTitle":"Modern Family", "Year":"2009", "Genre":"Komedia", "AverageRate":"7.951", "Votes":"5185"}
+{"Title":"Castle", "OriginalTitle":"Castle", "Year":"2009", "Genre":"Dramat, Kryminal", "AverageRate":"7.950", "Votes":"5166"}
+{"Title":"Glee", "OriginalTitle":"Glee", "Year":"2009", "Genre":"Dramat, Komedia, Muzyczny", "AverageRate":"7.948", "Votes":"15520"}
+{"Title":"Oz", "OriginalTitle":"Oz", "Year":"1997", "Genre":"Dramat, Kryminal, Thriller", "AverageRate":"7944", "Votes":"1386"}
+{"Title":"Dochodzenie", "OriginalTitle":"The Killing", "Year":"2011", "Genre":"Dramat, Kryminal", "AverageRate":"7.941", "Votes":"4429"}
+{"Title":"My Little Pony: Friendship Is Magic", "OriginalTitle":"My Little Pony: Friendship Is Magic", "Year":"2010", "Genre":"Animacja, Familijny, Fantasy, Komedia", "AverageRate":"7.936", "Votes":"1302"}
+{"Title":"Blue Mountain State", "OriginalTitle":"Blue Mountain State", "Year":"2010", "Genre":"Komedia, Sportowy", "AverageRate":"7.930", "Votes":"2156"}
+{"Title":"Fringe: Na granicy swiatow", "OriginalTitle":"Fringe", "Year":"2008", "Genre":"Thriller, Sci-Fi", "AverageRate":"7.930", "Votes":"12031"}
+{"Title":"Weronika Mars", "OriginalTitle":"Veronica Mars", "Year":"2004", "Genre":"Kryminal, Dla mlodziezy", "AverageRate":"7.916", "Votes":"13282"}
+{"Title":"Powrot do zycia", "OriginalTitle":"Life", "Year":"2007", "Genre":"Dramat, Kryminal", "AverageRate":"7.916", "Votes":"1990"}
+{"Title":"Moje tak zwane zycie", "OriginalTitle":"My So-Called Life", "Year":"1994", "Genre":"Obyczajowy, Dla mlodziezy", "AverageRate":"7.913", "Votes":"757"}
+{"Title":"Awatar: Legenda Aanga", "OriginalTitle":"Avatar: The Last Airbender", "Year":"2005", "Genre":"Animacja, Fantasy, Przygodowy", "AverageRate":"7.899", "Votes":"2631"}
+{"Title":"Terapia", "OriginalTitle":"In Treatment", "Year":"2008", "Genre":"Dramat", "AverageRate":"7.891", "Votes":"995"}
+{"Title":"Miasteczko South Park", "OriginalTitle":"South Park", "Year":"1997", "Genre":"Animacja, Komedia", "AverageRate":"7,890", "Votes":"32847"}
+{"Title":"Szkola przetrwania", "OriginalTitle":"Man vs. Wild", "Year":"2006", "Genre":"Dokumentalny, Przygodowy, Edukacyjny", "AverageRate":"7.889", "Votes":"10418"}
+{"Title":"Zabojcze umysly", "OriginalTitle":"Criminal Minds", "Year":"2005", "Genre":"Dramat, Kryminal, Thriller", "AverageRate":"7.886", "Votes":"4502"}
+{"Title":"American Horror Story", "OriginalTitle":"American Horror Story", "Year":"2011", "Genre":"Dramat, Horror", "AverageRate":"7.886", "Votes":"6460"}
+{"Title":"Z Archiwum X", "OriginalTitle":"The X Files", "Year":"1993", "Genre":"Thriller, Sci-Fi", "AverageRate":"7.880", "Votes":"42226"}
+{"Title":"Zagubiony pokoj", "OriginalTitle":"The Lost Room", "Year":"2006", "Genre":"Fantasy, Przygodowy", "AverageRate":"7.869", "Votes":"4946"}
+{"Title":"Greek", "OriginalTitle":"Greek", "Year":"2007", "Genre":"Komedia, Dla mlodziezy", "AverageRate":"7.866", "Votes":"2679"}
+{"Title":"Pogromcy mitow", "OriginalTitle":"MythBusters", "Year":"2003", "Genre":"Dokumentalny", "AverageRate":"7.865", "Votes":"11156"}
+{"Title":"Niesamowite historie", "OriginalTitle":"Amazing Stories", "Year":"1985", "Genre":"Horror", "AverageRate":"7.864", "Votes":"874"}
+{"Title":"Kosci", "OriginalTitle":"Bones", "Year":"2005", "Genre":"Dramat, Kryminal", "AverageRate":"7.863",  "Votes":"27322"}
+{"Title":"Slowo na L", "OriginalTitle":"The L Word", "Year":"2004", "Genre":"Romans, Dramat obyczajowy", "AverageRate":"7.862", "Votes":"4087"}
+{"Title":"Zycie na fali", "OriginalTitle":"The O.C.", "Year":"2003", "Genre":"Obyczajowy", "AverageRate":"7.856", "Votes":"20750"}
+{"Title":"Chuck", "OriginalTitle":"Chuck", "Year":"2007", "Genre":"Dramat, Komedia, Akcja", "AverageRate":"7.848", "Votes":"9787"}
+{"Title":"Uklady", "OriginalTitle":"Damages", "Year":"2007", "Genre":"Dramat, Kryminal, Thriller", "AverageRate":"7.846", "Votes":"3450"}
+{"Title":"Gwiezdne Wrota:Atlantyda", "OriginalTitle":"Stargate: Atlantis", "Year":"2004", "Genre":"Przygodowy, Sci-Fi", "AverageRate":"7.843", "Votes":"6110"}
+{"Title":"Pod oslona nocy", "OriginalTitle":"Moonlight", "Year":"2007", "Genre":"Dramat, Fantasy", "AverageRate":"7.843", "Votes":"7595"}
+{"Title":"Bez skazy", "OriginalTitle":"Nip/Tuck", "Year":"2003", "Genre":"Dramat obyczajowy", "AverageRate":"7.840", "Votes":"3694"}
+{"Title":"Po tamtej stronie", "OriginalTitle":"The Outer Limits", "Year":"1995", "Genre":"Dramat, Horror, Sci-Fi", "AverageRate":"7.840", "Votes":"1298"}
+{"Title":"Gwiezdne wrota", "OriginalTitle":"Stargate SG-1", "Year":"1997", "Genre":"Przygodowy, Sci-Fi", "AverageRate":"7.838", "Votes":"10094"}
+{"Title":"Zaklinacz psow", "OriginalTitle":"The Dog Whisperer", "Year":"2004", "Genre":"Dokumentalny, Edukacyjny", "AverageRate":"7.836", "Votes":"369"}
+{"Title":"Gdzie pachna stokrotki", "OriginalTitle":"Pushing Daisies", "Year":"2007", "Genre":"Komedia obyczajowa", "AverageRate":"7.832", "Votes":"4198"}
+{"Title":"Czysta krew", "OriginalTitle":"True Blood", "Year":"2008", "Genre":"Dramat, Fantasy, Horror", "AverageRate":"7.831", "Votes":"34000"}
+{"Title":"Dowody zbrodni", "OriginalTitle":"Cold Case", "Year":"2003", "Genre":"Kryminal", "AverageRate":"7.830", "Votes":"12478"}
+{"Title":"Twarz Analiji", "OriginalTitle":"El Rostro de Analia", "Year":"2008", "Genre":"Akcja, Romans", "AverageRate":"7.824", "Votes":"435"}
+{"Title":"X-Men: Ewolucja", "OriginalTitle":"X-Men: Evolution", "Year":"2000", "Genre":"Animacja, Sci-Fi, Dla mlodziezy", "AverageRate":"7.822", "Votes":"3536"}
+{"Title":"M*A*S*H", "OriginalTitle":"M*A*S*H", "Year":"1972", "Genre":"Dramat, Komedia, Wojenny", "AverageRate":"7.821", "Votes":"16329"}
+{"Title":"Przyjaciele", "OriginalTitle":"Friends", "Year":"1994", "Genre":"Komedia", "AverageRate":"7.818", "Votes":"132274"}
+{"Title":"Kochane klopoty", "OriginalTitle":"Gilmore Girls", "Year":"2000", "Genre":"Familijny, Komedia obyczajowa", "AverageRate":"7.813", "Votes":"11555"}
+{"Title":"The Walking Dead", "OriginalTitle":"The Walking Dead", "Year":"2010", "Genre":"Dramat, Horror", "AverageRate":"7.798", "Votes":"17523"}
+{"Title":"Hozy doktorzy", "OriginalTitle":"Scrubs", "Year":"2001", "Genre":"Dramat, Komedia", "AverageRate":"7.792", "Votes":"26923"}
+{"Title":"Fineasz i Ferb", "OriginalTitle":"Phineas and Ferb", "Year":"2007", "Genre":"Animacja, Familijny, Komedia, Musical", "AverageRate":"7.788", "Votes":"5507"}
