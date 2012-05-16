@@ -1,6 +1,8 @@
 #!/bin/bash
 clear
 
+# Importuje dane typu .json z pliku do bazy couchdb
+# Sposob uzycia skryptu
 function help() {
 	echo "";
 	echo "How to use:" 
