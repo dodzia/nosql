@@ -8,7 +8,7 @@ function help() {
 	echo "How to use:" 
 	echo "[file_name.sh] http://localhost:[port] [collection] [database_file]"
 	echo "For instance:"
-	echo "./2couch.sh http://localhost:5984 series baza_seriali.json"
+	echo "./2couch.sh http://localhost:5984 sitcoms baza_seriali.json"
 	echo "";
   exit 1
 }
