@@ -1,5 +1,7 @@
-// Przyklad uzycia svg, w ktorym mamy swinke, po najechanie na uszka, zamykaja sie, po oddaleniu myszy, wracaja na poprzedni pozycje. Oczka zamykaja sie dokladnie po najechaniu na kazdy element oka. 
+// DOROTA PIOTROWSKA 179793 
 
+
+//Svg w postaci swinki. Najezdzajac na uszka, skladaja sie, oddalajc mysz wracaja do poprzedniego stanu. Najezdzajac na oczy trzeba najechac na kazdy element zeby "zakmnac oczy".
 
 
 // Funkcje
