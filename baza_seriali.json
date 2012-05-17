@@ -1,16 +1,16 @@
 {"Title":"Gra o tron", "OriginalTitle":"Game of Thrones", "Year":"2011", "Genre":"Dramat, Fantasy, Przygodowy", "AverageRate":"8.800", "Votes":"44425"}
 {"Title":"Kompania braci", "OriginalTitle":"Band of brothers", "Year":"2001", "Genre":"Dramat, Wojenny", "AverageRate":"8.643", "Votes":"46740"}
-{"Title":"Jak poznalem wasza matke", "OriginalTitle":"How I Met Your Mother", "Year":"2005", "Genre":"Komedia", "AverageRate":"8.416", "Votes":"55341"}
+{"Title":"Jak poznalem wasza matke", "OriginalTitle":"How I Met Your Mother", "Year":"2005", "Genre":"	Komedia", "AverageRate":"8.416", "Votes":"55341"}
 {"Title":"Breaking Bad", "OriginalTitle":"Breaking Bad", "Year":"2008", "Genre":"Dramat, Kryminal", "AverageRate":"8.414", "Votes":"15626"}
 {"Title":"Dexter", "OriginalTitle":"Dexter", "Year":"2006", "Genre":"Dramat, Kryminal", "AverageRate":"8.389", "Votes":"70369"}
 {"Title":"Miasteczko Twin Peaks", "OriginalTitle":"Twin Peaks", "Year":"1990", "Genre":"Dramat, Thriller", "AverageRate":"8.350", "Votes":"27400"}
-{"Title":"Prawo ulicy", "OriginalTitle":"The Wire", "Year":"2002", "Genre":"Dramat, Kryminal", "AverageRate":"8.311", "Votes":"3974"}
-{"Title":"Zakazane Imperium", "OriginalTitle":"Boardwalk Empire", "Year":"2010", "Genre":"Dramat, Kryminal, Gangsterski", "AverageRate":"8.300", "Votes":"13130"}
+{"Title":"Prawo ulicy", "OriginalTitle":"The Wire", "Year":"2002", "Genre":"Dramat, Krymina³", "AverageRate":"8.311", "Votes":"3974"}
+{"Title":"Zakazane Imperium", "OriginalTitle":"Boardwalk Empire", "Year":"2010", "Genre":"Dramat, Krymina³, Gangsterski", "AverageRate":"8.300", "Votes":"13130"}
 {"Title":"W garniturach", "OriginalTitle":"Suits", "Year":"2011", "Genre":"Dramat, Komedia, Prawniczy", "AverageRate":"8.299", "Votes":"6629"}
 {"Title":"Planeta Ziemia", "OriginalTitle":"Planet Earth", "Year":"2006", "Genre":"Dokumentalny, Przyrodniczy", "AverageRate":"8.297", "Votes":"3080"}
 {"Title":"Dr House", "OriginalTitle":"House M.D.", "Year":"2004", "Genre":"Dramat, Komedia", "AverageRate":"8.283", "Votes":"194373"}
 {"Title":"Synowie Anarchii", "OriginalTitle":"Sons of Anarchy", "Year":"2008", "Genre":"Dramat, Kryminal, Akcja", "AverageRate":"8.265", "Votes":"7621"}
-{"Title":"Teoria wielkiego podrywu", "OriginalTitle":"The Bing Bang Theory", "Year":"2007", "Genre":"Komedia", "AverageRate":"8.248", "Votes":"35810"}
+{"Title":"Teoria wielkiego podrywu", "OriginalTitle":"The Bing Banh Theory", "Year":"2007", "Genre":"Komedia", "AverageRate":"8.248", "Votes":"35810"}
 {"Title":"Spartakus: Krew i piach", "OriginalTitle":"Spartakus: Blood and Sand", "Year":"2010", "Genre":"Kostiumowy, Akcja", "AverageRate":"8.236", "Votes":"22549"}
 {"Title":"Nie z tego swiata", "OriginalTitle":"Supernatural", "Year":"2005", "Genre":"Dramat, Horror", "AverageRate":"8.218", "Votes":"24918"}
 {"Title":"Zwariowane melodie", "OriginalTitle":"Merrie Melodies: Starring Bugs Bunny and Friends ", "Year":"1990", "Genre":"Animacja, Familijny, Komedia", "AverageRate":"8.209", "Votes":"10031"}
@@ -27,8 +27,8 @@
 {"Title":"Biale kolnierzyki", "OriginalTitle":"White Collar", "Year":"2009", "Genre":"Dramat, Komedia kryminalna", "AverageRate":"8.095", "Votes":"6247"}
 {"Title":"Alfred Hitchcock Przedstawia", "OriginalTitle":"Alfred Hitchcock Presents ", "Year":"1955", "Genre":"Thriller, Dreszczowiec", "AverageRate":"8.095", "Votes":"1993"}
 {"Title":"Ekipa", "OriginalTitle":"Entourage", "Year":"2004", "Genre":"Komedia obyczajowa", "AverageRate":"8.093", "Votes":"5263"}
-{"Title":"Deadwood", "OriginalTitle":"Deadwook", "Year":"2004", "Genre":"Historyczny, Kryminal, Western", "AverageRate":"8.064", "Votes":"2507"}
-{"Title":"Pingwiny z Madagaskaru", "OriginalTitle":"The Penguins of Madagascar", "Year":"2008", "Genre":"Animacja, Familijny, Komedia", "AverageRate":"8.051", "Votes":"22283"}
+{"Title":"Deadwood", "OriginalTitle":"Deadwook", "Year":"2004", "Genre":"Historyczny, Krymina³, Western", "AverageRate":"8.064", "Votes":"2507"}
+{"Title":"Pingwiny z Madagaskaru", "OriginalTitle":"The Penguins of Madagascar", "Year":"2008", "Genre":"Animacja, Familijny, Komedia", "AverageRate":"8.051", "Votes":"22283}
 {"Title":"Rozowe lata 70-te", "OriginalTitle":"That 70s Show", "Year":"1998", "Genre":"Komedia", "AverageRate":"8.035", "Votes":"26704"}
 {"Title":"Generation Kill:Czas wojny", "OriginalTitle":"Generation Kill", "Year":"2008", "Genre":"Dramat, Wojenny", "AverageRate":"8.032", "Votes":"3952"}
 {"Title":"Carnivale", "OriginalTitle":"Carnivale", "Year":"2003", "Genre":"Dramat, Fantasy", "AverageRate":"8.029", "Votes":"2582"}
@@ -76,7 +76,7 @@
 {"Title":"Greek", "OriginalTitle":"Greek", "Year":"2007", "Genre":"Komedia, Dla mlodziezy", "AverageRate":"7.866", "Votes":"2679"}
 {"Title":"Pogromcy mitow", "OriginalTitle":"MythBusters", "Year":"2003", "Genre":"Dokumentalny", "AverageRate":"7.865", "Votes":"11156"}
 {"Title":"Niesamowite historie", "OriginalTitle":"Amazing Stories", "Year":"1985", "Genre":"Horror", "AverageRate":"7.864", "Votes":"874"}
-{"Title":"Kosci", "OriginalTitle":"Bones", "Year":"2005", "Genre":"Dramat, Kryminal", "AverageRate":"7.863",  "Votes":"27322"}
+{"Title":"Kosci", "OriginalTitle":"Bones", "Year":"2005", "Genre":"Dramat, Kryminal", "AverageRate":"7.863", "Votes":"27322"}
 {"Title":"Slowo na L", "OriginalTitle":"The L Word", "Year":"2004", "Genre":"Romans, Dramat obyczajowy", "AverageRate":"7.862", "Votes":"4087"}
 {"Title":"Zycie na fali", "OriginalTitle":"The O.C.", "Year":"2003", "Genre":"Obyczajowy", "AverageRate":"7.856", "Votes":"20750"}
 {"Title":"Chuck", "OriginalTitle":"Chuck", "Year":"2007", "Genre":"Dramat, Komedia, Akcja", "AverageRate":"7.848", "Votes":"9787"}
@@ -87,10 +87,10 @@
 {"Title":"Po tamtej stronie", "OriginalTitle":"The Outer Limits", "Year":"1995", "Genre":"Dramat, Horror, Sci-Fi", "AverageRate":"7.840", "Votes":"1298"}
 {"Title":"Gwiezdne wrota", "OriginalTitle":"Stargate SG-1", "Year":"1997", "Genre":"Przygodowy, Sci-Fi", "AverageRate":"7.838", "Votes":"10094"}
 {"Title":"Zaklinacz psow", "OriginalTitle":"The Dog Whisperer", "Year":"2004", "Genre":"Dokumentalny, Edukacyjny", "AverageRate":"7.836", "Votes":"369"}
-{"Title":"Gdzie pachna stokrotki", "OriginalTitle":"Pushing Daisies", "Year":"2007", "Genre":"Komedia obyczajowa", "AverageRate":"7.832", "Votes":"4198"}
+{"Title":"Gdzie pachn¹ stokrotki", "OriginalTitle":"Pushing Daisies", "Year":"2007", "Genre":"Komedia obyczajowa", "AverageRate":"7.832", "Votes":"4198"}
 {"Title":"Czysta krew", "OriginalTitle":"True Blood", "Year":"2008", "Genre":"Dramat, Fantasy, Horror", "AverageRate":"7.831", "Votes":"34000"}
 {"Title":"Dowody zbrodni", "OriginalTitle":"Cold Case", "Year":"2003", "Genre":"Kryminal", "AverageRate":"7.830", "Votes":"12478"}
-{"Title":"Twarz Analiji", "OriginalTitle":"El Rostro de Analia", "Year":"2008", "Genre":"Akcja, Romans", "AverageRate":"7.824", "Votes":"435"}
+{"Title":"Twarz Analiji", "OriginalTitle":"El Rostro de Analía", "Year":"2008", "Genre":"Akcja, Romans", "AverageRate":"7.824", "Votes":"435"}
 {"Title":"X-Men: Ewolucja", "OriginalTitle":"X-Men: Evolution", "Year":"2000", "Genre":"Animacja, Sci-Fi, Dla mlodziezy", "AverageRate":"7.822", "Votes":"3536"}
 {"Title":"M*A*S*H", "OriginalTitle":"M*A*S*H", "Year":"1972", "Genre":"Dramat, Komedia, Wojenny", "AverageRate":"7.821", "Votes":"16329"}
 {"Title":"Przyjaciele", "OriginalTitle":"Friends", "Year":"1994", "Genre":"Komedia", "AverageRate":"7.818", "Votes":"132274"}
